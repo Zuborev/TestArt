@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f17b3a37-faac-4e3a-9115-af7e5387e230" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fOfTFFv7pK4QoOouQze17zMdEM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/js" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\OSPanel\domains\testArt\assets\js\libs" />
+      <recent name="E:\OSPanel\domains\testArt\assets\js\apps" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\OSPanel\domains\testArt\assets\js" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f17b3a37-faac-4e3a-9115-af7e5387e230" name="Default Changelist" comment="" />
+      <created>1596094065827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596094065827</updated>
+      <workItem from="1596094070379" duration="105379000" />
+      <workItem from="1596362824331" duration="19539000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="456" y="173" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596095227652">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="456" y="173" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1160/0.0.1366.728@0.0.1366.728" timestamp="1596095227652" />
+    <state x="300" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1596095361007">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="300" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1920.0.1920.1160/0.0.1366.728@0.0.1366.728" timestamp="1596095361007" />
+    <state x="484" y="197" key="NewPhpClassDialog" timestamp="1596095170296">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="197" key="NewPhpClassDialog/-1920.0.1920.1160/0.0.1366.728@0.0.1366.728" timestamp="1596095170296" />
+    <state x="-1192" y="468" key="NewPhpFileDialog" timestamp="1596123893643">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="-1192" y="468" key="NewPhpFileDialog/-1920.0.1920.1160/0.0.1366.728@-1920.0.1920.1160" timestamp="1596123893643" />
+    <state x="518" y="294" key="NewPhpFileDialog/-1920.0.1920.1160/0.0.1366.728@0.0.1366.728" timestamp="1596095254919" />
+    <state x="-1253" y="426" key="com.intellij.ide.util.TipDialog" timestamp="1596362823603">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="-1253" y="426" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1160/0.0.1366.728@-1920.0.1920.1160" timestamp="1596362823603" />
+    <state x="-1304" y="275" key="run.anything.popup" timestamp="1596143881041">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="-1304" y="275" key="run.anything.popup/-1920.0.1920.1160/0.0.1366.728@-1920.0.1920.1160" timestamp="1596143881041" />
+    <state x="-1297" y="265" width="672" height="678" key="search.everywhere.popup" timestamp="1596371509637">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="-1297" y="265" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1160/0.0.1366.728@-1920.0.1920.1160" timestamp="1596371509637" />
+  </component>
+</project>

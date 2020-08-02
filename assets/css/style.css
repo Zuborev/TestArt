@@ -1,0 +1,11 @@
+body {
+	font-style: italic;
+}
+
+.menu {
+	padding: 15px 30px;
+}
+
+#city_chosen, #village_chosen {
+	display: none;
+}
